@@ -1,23 +1,16 @@
 {
   "name": "@jsmoda/test",
-  "version": "1.0.0",
+  "version": "1.0.1-a",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "webpack": "^3.0.0"
+  "dependencies": {},
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "react": "^15.6.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kyuwoo-choi/npmtest.git"
-  },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kyuwoo-choi/npmtest/issues"
-  },
-  "homepage": "https://github.com/kyuwoo-choi/npmtest#readme"
+  "license": "ISC"
 }
