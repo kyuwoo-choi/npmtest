@@ -1,0 +1,17 @@
+{
+  "name": "jsmodatest",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "kyuwoo.choi <kyuwoo.choi@nhnent.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/kyuwoo-choi/npmtest",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
